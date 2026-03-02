@@ -21,3 +21,5 @@ This repository uses MATLAB. Follow these standards:
 - Use %% for section dividers
 
 For complete standards, see: matlab-coding-standards.md
+
+Source: https://github.com/matlab/rules
